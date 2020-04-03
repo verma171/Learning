@@ -14,7 +14,7 @@
 _This tied with the lifecycle of the application, This can be used where you need a context whose lifecycle is separate from the current context or when you are passing a context beyond the scope of an activity._
 
 - **Activity Context** </br>
-_This context availabe in activity and tied with the lifecycle of the Activity. It should be used when you are passing the context in the scope of an activity or you need the context whose lifecycle attached to the current context.
+_This context availabe in activity and tied with the lifecycle of the Activity. It should be used when you are passing the context in the scope of an activity or you need the context whose lifecycle attached to the current context._
 
 
 
