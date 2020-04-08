@@ -1,7 +1,7 @@
 # JAVA
 
 * [Java Concepts](#java-concepts)
-* [Concurrency](#concurrency)
+* [Threads & Concurrency](https://github.com/pkjvit/Learning/blob/master/Java/ThreadsAndConcurrency.md)
 * [Memory Management](#memory-management)
 * [Process Management](#process-management)
 * [Design Patterns](#design-patterns)
@@ -49,7 +49,6 @@ _Polymorphism is the ability of a variable, function or an object to take multip
 </br>1. **Compile Time Polymorphism** </br>
 </br>2. **Run Time Polymorphism** </br>
 
-# Concurrency
 
 
 
