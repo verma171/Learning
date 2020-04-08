@@ -22,6 +22,10 @@ _This tied with the lifecycle of the application, This can be used where you nee
 _This context availabe in activity and tied with the lifecycle of the Activity. It should be used when you are passing the context in the scope of an activity or you need the context whose lifecycle attached to the current context._
 
 
+## Architecture Patterns
+
+- **MVC|MVP|MVVM** [MindOrk](https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android)
+
 
 
 
