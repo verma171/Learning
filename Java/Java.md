@@ -48,9 +48,17 @@ _Inheritance is the property of a child/derived/subclass which allows it to inhe
 _Polymorphism is the ability of a variable, function or an object to take multiple forms. It allows you to define one interface or method and have multiple implementations. There are two types of polymorphism in Java._
 </br>1. **Compile Time Polymorphism** </br>
 </br>2. **Run Time Polymorphism** </br>
+        - [Dynamic method dispatch](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/)
 
 
 
+# String
+
+- [**String Immutability**](https://www.geeksforgeeks.org/java-string-is-immutable-what-exactly-is-the-meaning/)
+
+- [**String Comparasion**](https://www.geeksforgeeks.org/how-to-initialize-and-compare-strings-in-java/)
+
+- [**String Pool**](https://www.edureka.co/blog/java-string-pool/)
 
 
 # Memory Management
