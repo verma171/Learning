@@ -13,6 +13,10 @@
 
 - [Interview Questions](https://medium.com/@Shekhar14/fragment-interview-questions-c62be4b5ef68)
 
+## Recycler View
+- [GoogleIO16](https://www.youtube.com/watch?v=LqBlYJTfLP4&feature=youtu.be&t=1038)
+- [Anatomy of RecyclerView](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
+
 ## Context
 - Interface which provide global information about an Application environment.
 - This is an abstract class which implementation provided by Andorid system.
