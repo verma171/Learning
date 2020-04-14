@@ -7,6 +7,7 @@
 
 ## Activity
 - what is use case of Multiple Taks in Activity ? </br> //todo
+- [LaunchMode](https://itnext.io/the-android-launchmode-animated-cheatsheet-6657e5dd9b0f)
 
 ## Fragment
 - [Fragment Navigation](https://medium.com/@Zhuinden/simplified-fragment-navigation-using-a-custom-backstack-552e06961257)
