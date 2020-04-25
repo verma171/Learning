@@ -11,6 +11,6 @@
 ## DSA
 
 
-## Common Asked Problems
+## [Common Asked Problems](https://github.com/pkjvit/Learning/blob/master/Interview/CommonAskedProblems.md)
 
  
