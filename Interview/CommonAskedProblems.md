@@ -153,3 +153,20 @@ when onattached in fragmet calleddestory.
 18. how manager large bit maps in grid view  
 19. Async task handling if activity destroy.  
 20. what is android run time
+
+## Amazon 
+
+Amazon Round 1 : 
+
+1. Find. Nth permutation
+ https://www.geeksforgeeks.org/find-n-th-lexicographically-permutation-string-set-2/
+
+2. Find Sum with given path to leaf node in Tree.
+https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+Second Round : 
+
+2. Remove minimum and Maxmimum node. With in the range.
+https://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/
+
+3. https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
